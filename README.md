@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @quocdat22
 - 👀 I’m interested in football and basketball
-- 🌱 I’m currently learning PHP and C
+- 🌱 I’m currently learning ...
 
 
 <!---
